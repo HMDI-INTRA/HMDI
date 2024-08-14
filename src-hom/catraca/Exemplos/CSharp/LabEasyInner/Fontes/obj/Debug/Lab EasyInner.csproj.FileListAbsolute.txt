@@ -1,0 +1,139 @@
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.FrmBIO.resources
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.frmBio6xx.resources
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.frmMain.resources
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.Properties.Resources.resources
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOffLine.resources
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOnline.resources
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmSobre.FrmSobre.resources
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.GenerateResource.Cache
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.exe
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.pdb
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\Interop.NBioBSPCOMLib.dll
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\NITGEN.SDK.NBioBSP.dll
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+D:\Projetos\SDK_Exemplos\v4.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.exe
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.pdb
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\Interop.NBioBSPCOMLib.dll
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.FrmBIO.resources
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.frmBio6xx.resources
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.frmMain.resources
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.Properties.Resources.resources
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOffLine.resources
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOnline.resources
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmSobre.FrmSobre.resources
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.GenerateResource.Cache
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.FrmBIO.resources
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.frmBio6xx.resources
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.frmMain.resources
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.Properties.Resources.resources
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOffLine.resources
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOnline.resources
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmSobre.FrmSobre.resources
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.GenerateResource.Cache
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.exe
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.pdb
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\Interop.NBioBSPCOMLib.dll
+C:\Projetos\SDK EasyInner\Exemplos e Instalador\4.0.8\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.exe
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.pdb
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\Interop.NBioBSPCOMLib.dll
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.FrmBIO.resources
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.frmBio6xx.resources
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.frmMain.resources
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.Properties.Resources.resources
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOffLine.resources
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOnline.resources
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmSobre.FrmSobre.resources
+C:\Projetos\SDK v4.0.0.9\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.GenerateResource.Cache
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.exe
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.pdb
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\Interop.NBioBSPCOMLib.dll
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.FrmBIO.resources
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.frmBio6xx.resources
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.frmMain.resources
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.Properties.Resources.resources
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOffLine.resources
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOnline.resources
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmSobre.FrmSobre.resources
+C:\Projetos\SDK v.4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.GenerateResource.Cache
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.exe
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.pdb
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\Interop.NBioBSPCOMLib.dll
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.FrmBIO.resources
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.frmBio6xx.resources
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.frmMain.resources
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.Properties.Resources.resources
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOffLine.resources
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOnline.resources
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmSobre.FrmSobre.resources
+C:\Projetos\SDK v4.1.0.0\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.GenerateResource.Cache
+\\xp-alfa-aries\Exemplos e Instalador\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+\\xp-alfa-aries\Exemplos e Instalador\Projeto SDK\GeradorVersaoSDK\PackagePadrao\SDK-EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
+C:\Projeto\SDK\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+C:\Projeto\SDK\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\ResolveAssemblyReference.cache
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.FrmBIO.resources
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.frmBio6xx.resources
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.frmMain.resources
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.Properties.Resources.resources
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOffLine.resources
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOnline.resources
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmSobre.FrmSobre.resources
+C:\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.GenerateResource.Cache
+C:\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.exe
+C:\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.pdb
+C:\CSharp\LabEasyInner\Fontes\bin\Debug\Interop.NBioBSPCOMLib.dll
+C:\CSharp\LabEasyInner\Fontes\bin\Debug\NITGEN.SDK.NBioBSP.dll
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
+E:\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.exe
+E:\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\EasyInnerSDK.pdb
+E:\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\Interop.NBioBSPCOMLib.dll
+E:\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\NITGEN.SDK.NBioBSP.dll
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\ResolveAssemblyReference.cache
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.FrmBIO.resources
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.frmBio6xx.resources
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.frmMain.resources
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.Properties.Resources.resources
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOffLine.resources
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOnline.resources
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmSobre.FrmSobre.resources
+E:\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.GenerateResource.Cache
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\bin\Debug\LMLeitorUSB.dll
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.AssemblyReference.cache
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\SDK EasyInner\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.CopyComplete
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.AssemblyReference.cache
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.FrmBIO.resources
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmBIO.frmBio6xx.resources
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.frmMain.resources
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.Properties.Resources.resources
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOffLine.resources
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmOnline.resources
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.UI.FrmSobre.FrmSobre.resources
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.GenerateResource.cache
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\Lab EasyInner.csproj.CoreCompileInputs.cache
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.exe
+\\10.1.1.108\intranet\www\html\intranet\src\catraca\Exemplos\CSharp\LabEasyInner\Fontes\obj\Debug\EasyInnerSDK.pdb
